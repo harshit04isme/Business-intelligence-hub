@@ -29,7 +29,7 @@ An end-to-end AI-powered business analytics workspace featuring automated databa
 
 1. Push this repository to GitHub.
 2. Go to **[share.streamlit.io](https://share.streamlit.io)** and click **"New app"**.
-3. Select your repository: `Mahatvasingh/applied-ai-business-intelligence-hub`.
+3. Select your repository: `https://github.com/harshit04isme/Business-intelligence-hub/tree/main`.
 4. Set **Main file path** to: `streamlit_app.py`.
 5. Under **Advanced settings** -> **Secrets**, add your Groq API key:
    ```toml
